@@ -1,18 +1,20 @@
-TYPE html>
+
+<!DOCTYPE html>
 <html
 >
 <head
 >
 <title
 >
-exp-head
+Learn Enough to Be Dangerous
 </title>
 <meta
 charset=
 "utf-8"
 >
 </head>
-<body><h1>learn git and Github</h1>
+<body
+>n git and Github</h1>
 <h2>learn git and github</h2>
 <h6>learn git and github</h6>
 <h7>learn git and github</h7>
